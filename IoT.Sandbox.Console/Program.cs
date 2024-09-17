@@ -7,6 +7,7 @@ using IoT.Sandbox.Console;
 using Serilog;
 using Serilog.Events;
 using Serilog.Sinks.SystemConsole.Themes;
+using IoT.Sandbox.Console.Models;
 
 var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 

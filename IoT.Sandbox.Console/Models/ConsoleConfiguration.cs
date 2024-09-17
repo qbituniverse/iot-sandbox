@@ -1,4 +1,4 @@
-﻿namespace IoT.Sandbox.Console
+﻿namespace IoT.Sandbox.Console.Models
 {
     public class ConsoleConfiguration
     {

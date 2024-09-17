@@ -2,7 +2,7 @@
 using Iot.Device.Hcsr501;
 using Microsoft.Extensions.Logging;
 
-namespace IoT.Sandbox.Console.Hcsr501;
+namespace IoT.Sandbox.Console.Modules.Hcsr501;
 
 internal class Hcsr501V1 : IRun
 {

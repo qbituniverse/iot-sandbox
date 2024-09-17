@@ -1,7 +1,7 @@
 ﻿using System.Device.Gpio;
 using Microsoft.Extensions.Logging;
 
-namespace IoT.Sandbox.Console.Gpio;
+namespace IoT.Sandbox.Console.Modules.Gpio;
 
 internal class GpioV1 : IRun
 {
